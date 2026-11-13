@@ -1,0 +1,15 @@
+# Build products
+*.o
+
+# Atari ST programs (PRGALIGN.PRG and the test programs)
+*.PRG
+*.prg
+*.TOS
+*.tos
+
+# Test work files
+*.st
+tmp/
+
+# macOS
+.DS_Store
